@@ -256,4 +256,4 @@ So far all of the pretrained weights available here are pretrained on ImageNet w
 Several weights included or references here were pretrained with proprietary datasets that I do not have access to. These include the Facebook WSL, SSL, SWSL ResNe(Xt) and the Google Noisy Student EfficientNet models. The Facebook models have an explicit non-commercial license (CC-BY-NC 4.0, https://github.com/facebookresearch/semi-supervised-ImageNet1K-models, https://github.com/facebookresearch/WSL-Images). The Google models do not appear to have any restriction beyond the Apache 2.0 license (and ImageNet concerns). In either case, you should contact Facebook or Google with any questions.
 
 ## mark
-
+There were many pre-trained models , and they had high precision. The feature map of mulit-scale in the middle layer can be obtained directly, which is suitable for classification task and object detection task.
